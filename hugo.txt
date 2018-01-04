@@ -1,1 +1,2 @@
 primera linea del archivo de hugo.txt
+2da linea del archivo hugo.txt
